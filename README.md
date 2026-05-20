@@ -34,12 +34,13 @@
 
 </p>
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedMohsen20501990&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedMohsen20501990&show_icons=true&theme=radical" height="180em"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMohsen20501990&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMohsen20501990&layout=compact&theme=radical" height="180em"/>
 </p>
 
 ---
@@ -47,7 +48,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MohamedMohsen20501990&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=MohamedMohsen20501990&theme=radical&hide_border=true"/>
 </p>
 
 ---
