@@ -34,9 +34,33 @@
 
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedMohsen20501990&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMohsen20501990&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MohamedMohsen20501990&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedMohsen20501990&theme=tokyo-night&hide_border=true"/>
+</p>
+
 
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/mohamed-mohsen-355475195/)
+- 💼 LinkedIn: [Mohamed Mohsen](https://www.linkedin.com/in/mohamed-mohsen-355475195/)
 - 📧 Email: mohsen20501990@gmail.com
